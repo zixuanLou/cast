@@ -1,0 +1,24 @@
+{
+    "filmTitle" : "Crouching Tiger, Hidden Dragon",
+    "director" : "Ang Lee",
+    "year" : 2000,
+    "active" : true,
+    
+    "characters" : [
+      {
+        "name" : "Li Mu Bai",
+        "age" : 45,
+        "actor" : "Chow Yun-fat"
+      },
+      {
+        "name" : "Yu Shu Lien",
+        "age" : 39,
+        "actor" : "Michelle Yeoh"
+      },
+      {
+        "name" : "Jen Yu",
+        "age" : 18,
+        "actor" : "Zhang Ziyi"
+      }
+    ]
+  }
