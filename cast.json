@@ -3,8 +3,7 @@
     "director" : "Ang Lee",
     "year" : 2000,
     "active" : true,
-    
-    "characters" : [
+    "members" : [
       {
         "name" : "Li Mu Bai",
         "age" : 45,
